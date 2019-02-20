@@ -1,0 +1,12 @@
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csprojAssemblyReference.cache
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csproj.CopyComplete
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb

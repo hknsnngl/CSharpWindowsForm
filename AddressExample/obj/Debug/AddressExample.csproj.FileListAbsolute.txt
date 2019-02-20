@@ -1,0 +1,12 @@
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\bin\Debug\AddressExample.dll.config
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\bin\Debug\AddressExample.dll
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\bin\Debug\AddressExample.pdb
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\bin\Debug\EntityFramework.dll
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\bin\Debug\EntityFramework.xml
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\obj\Debug\AddressExample.csprojAssemblyReference.cache
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\obj\Debug\AddressExample.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\obj\Debug\AddressExample.csproj.CopyComplete
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\obj\Debug\AddressExample.dll
+C:\Users\hakan\Desktop\CSharpProjeNotlar\BooksExamples\AddressExample\obj\Debug\AddressExample.pdb
